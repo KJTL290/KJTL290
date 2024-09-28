@@ -10,9 +10,10 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
+  <a href="https://twitter.com/your_username" target="blank">
+  <img src="https://img.shields.io/twitter/follow/your_username?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Badge" />
+</a>
+
 </p>
 
 - 📫 How to reach me: **kimjoshualopez30@gmail.com**
