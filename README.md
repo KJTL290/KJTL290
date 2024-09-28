@@ -9,12 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=kjtl&label=Profile%20views&color=0e75b6&style=flat" alt="kjtl" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/your_username" target="blank">
-  <img src="https://img.shields.io/twitter/follow/your_username?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Badge" />
-</a>
 
-</p>
 
 - 📫 How to reach me: **kimjoshualopez30@gmail.com**
 - ⚡ Fun fact: **I'm funny**
