@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">Second Year College Student</h3>
+<h3 align="center">Second Year College Student at Eastern Visayas State University</h3>
 
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding Freak" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding Freak" width="600"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kjtl&label=Profile%20views&color=0e75b6&style=flat" alt="kjtl" />
+  <img src="https://komarev.com/ghpvc/?username=kjtl&label=Profile%20views&color=0e75b6&style=flat" alt="kjtl" height=25%/>
 </p>
-
-
 
 - 📫 How to reach me: **kimjoshualopez30@gmail.com**
 - ⚡ Fun fact: **I'm funny**
@@ -39,3 +37,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
 </p>
+
+- 🏫 Currently studying: **Eastern Visayas State University**
+- 🎓 Section: **BSIT 2B**
