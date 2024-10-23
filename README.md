@@ -10,7 +10,7 @@ I'm a passionate BSIT student at EVSU, always learning and building new projects
 ![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJTL290&show_icons=true&theme=radical)
 
 ### My Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-lopez&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJTL290&layout=compact&theme=radical)
 
 
 
