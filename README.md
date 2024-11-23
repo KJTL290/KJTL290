@@ -12,7 +12,6 @@ I'm a passionate BSIT student at EVSU, always learning and building new projects
 ### My Language Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJTL290&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KJTL290)](https://git.io/streak-stats)
 
 
 ---
