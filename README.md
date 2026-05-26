@@ -1,7 +1,7 @@
 # Hi there, I'm Kim Joshua T. Lopez 👋
 
 ## 👨‍💻 About Me
-I'm a passionate BSIT student at EVSU, always learning and building new projects. I enjoy working on web development, programming, and creating tools that make life easier. Welcome to my GitHub profile!
+I'm a passionate BSIT student at EVSU, always learning and building new projects. I enjoy working and creating tools that make life easier. Welcome to my GitHub profile!
 
 ---
 
